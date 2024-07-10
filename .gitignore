@@ -1,0 +1,5 @@
+/target/
+/codescreen/
+.settings/
+.project
+.classpath
